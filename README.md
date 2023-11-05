@@ -6,6 +6,7 @@ Repositório para o desafio da plataforma DIO
    desafio proposto pelo Felipão.  
 
 
-*coded by Filipesouzax*
+*coded by Filipesouzax*   
+	![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 
